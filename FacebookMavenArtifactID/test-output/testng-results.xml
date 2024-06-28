@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-28T13:48:39 IST" name="Default suite" finished-at="2024-06-28T13:48:40 IST" duration-ms="622">
+    <groups>
+    </groups>
+    <test started-at="2024-06-28T13:48:39 IST" name="Default test" finished-at="2024-06-28T13:48:40 IST" duration-ms="622">
+      <class name="com.facebook.test.PageFactoryLoginTest">
+        <test-method signature="LoginTest()[pri:0, instance:com.facebook.test.PageFactoryLoginTest@693e4d19]" started-at="2024-06-28T13:48:39 IST" name="LoginTest" finished-at="2024-06-28T13:48:40 IST" duration-ms="425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="closeLoginPage()[pri:0, instance:com.facebook.test.PageFactoryLoginTest@693e4d19]" started-at="2024-06-28T13:48:40 IST" name="closeLoginPage" finished-at="2024-06-28T13:48:40 IST" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeLoginPage -->
+      </class> <!-- com.facebook.test.PageFactoryLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
