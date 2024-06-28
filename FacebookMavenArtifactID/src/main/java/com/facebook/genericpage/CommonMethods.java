@@ -17,7 +17,7 @@ public class CommonMethods extends MasterPage {
 		super();
 	}
 
-	// click Method
+	// click Method for common 
 	public void click(String xpathKey) {
 		driver.findElement(By.xpath(or.getProperty(xpathKey))).click();
 		//driver.findElement(By.xpath(xpathKey)).click();
